@@ -6,10 +6,10 @@ proposal_format_version: "2"
 bilingual_contract_version: "1"
 translation_file: "proposal.en.md"
 license: "COMMUNITY-DISPLAY-ONLY"
-summary: "以「京张零公里」为总概念，把百年京张铁路的零公里起点与 AI 原点社区叠合为新的城市起点，沿遗址公园组织时间线、青年友好公共空间、AI 朝圣地标与年度活动体系，并增加与杭州城的互动机制，全部空间主张均为概念建议（v1.6）。"
+summary: "以「京张零公里」为总概念，把百年京张铁路的零公里起点与 AI 原点社区叠合为新的城市起点，沿遗址公园组织时间线、青年友好公共空间、AI 朝圣地标、年度活动体系、与杭州城的互动机制，以及从自主创新到共同创造的科技文明叙事，全部空间主张均为概念建议（v1.7）。"
 tracks: ["jingzhang-heritage-narrative", "youth-friendly-public-space"]
 scenarios: ["ai-cultural-guide", "ai-traffic-walkability", "enterprise-service-copilot"]
-iteration: "v1.6"
+iteration: "v1.7"
 ---
 
 # 京张零公里 Kilometre Zero
@@ -20,6 +20,7 @@ iteration: "v1.6"
 - **空间**：沿京张遗址公园组织“零公里主轴”，串联加速段（众智园）、原点站（AI 原点社区）、换乘站（大钟寺）三处站点式核心区 [data:geometry/key_areas.geojson#PROV-KEY-001] [metric:key_area_count]。
 - **体验**：3 处 AI 朝圣地标、16 张场景卡、7 类用户画像；绿地率与公共空间比例见核心指标 [metric:green_ratio] [metric:public_space_ratio]。
 - **运营**：9 月零公里节、10 月全球 AI 开发者周、季度场景开放日，并新增与杭州城的互动机制（活动互链、数据治理、科创空间、城市服务）[source:CASE-2026-YUNQI-CONFERENCE]。
+- **共同愿景**：从首条自建干线铁路到自主智能，再到开源共创与全球协作，把共同责任落为可体验的公共机制 [source:CASE-JINGZHANG-RAILWAY] [source:CASE-UNESCO-AI-ETHICS]。
 - **边界**：全部空间主张为概念建议，基于 provisional 边界；官方红线发布后整体复算 [depth:metrics_recalculation]。
 
 ## 设计依据与资料清单
@@ -156,7 +157,7 @@ AI 朝圣地标（3 处）：
 
 城市风貌叙事为「百年铁轨·数字信号·青春街道」三层：铁轨符号用于历史记忆，信号灯色彩体系用于导视与公共艺术，青春街道用于青年友好界面。导视系统采用“零公里里程碑＋信号色”的统一语言，Logo 方向以“0”与铁轨枕木的叠合为主 [source:AGENT-TASKBOOK] [standard:MOHURD-URBAN-DESIGN-MEASURES]。
 
-文化叙事主线：1905 年京张铁路开工→1909 年通车（中国自主创新原点）→中关村“敢为人先”→AI 新文化“开源、可解释、共创”→未来“零公里”再次出发 [source:CASE-KINGS-CROSS]。所有历史表述以公开资料为准，不虚构人物与事件。
+文化叙事主线：1905 年京张铁路开工→1909 年通车（中国自行设计建造的第一条干线铁路，自主创新的原点）→中关村“敢为人先”→AI 新文化“开源、可解释、共创”→未来“零公里”再次出发 [source:CASE-JINGZHANG-RAILWAY]。所有历史表述以公开资料为准，不虚构人物与事件。
 
 ## 更新项目清单、实施政策与分期计划
 
@@ -203,6 +204,41 @@ AI 朝圣地标（3 处）：
 
 以上互动机制全部为概念建议与背景机制参考：不构成京杭两地政府已达成合作、签约或投资的承诺；不改变本方案在北京的法定控规、审批与实施边界 [depth:risk_missing_data]。
 
+## 科技文明与共同责任（概念建议）
+
+本方案把“科技文明”理解为：一个街区的创新不只是服务自身，更应沉淀为可共享、可复核、可延续的公共机制。京张零公里以“从自主创新到共同创造”为第二条叙事主线：先有能力独立解决自己的问题，再以公开、可信、协作的方式把经验转化为他人可复用的公共产品 [source:CASE-JINGZHANG-RAILWAY] [source:CASE-UNESCO-AI-ETHICS] [depth:overall_spatial_structure]。
+
+共同责任原则（落地为空间与运营规则）：
+
+| 原则 | 空间/运营落点 | 复核边界 |
+| --- | --- | --- |
+| 可信 | 开放成果展示廊、开源发布厅 | 只展示清权后的成果，标注生成与复核主体 [source:CASE-UNESCO-AI-ETHICS] |
+| 可解释 | 企业服务 Copilot 驿站、治理咨询窗口 | 政策、场景与合规问答保留人工答复路径 |
+| 可退出 | AI 测试沙盒、低速无人配送试点 | 试点均可中止，安全员在场，数据授权后使用 |
+| 公共福祉优先 | 青年友好公共空间、无障碍数字导览 | 残障与老年群体需求进入场景设计与评审 |
+
+科技文明时间线（街道可阅读的连续叙事）：
+
+| 阶段 | 历史/事实锚点 | 空间转译 |
+| --- | --- | --- |
+| 自主开拓 | 1905–1909 京张铁路（中国自行设计建造的第一条干线铁路） | 零公里纪念碑、百年铁轨符号 [source:CASE-JINGZHANG-RAILWAY] |
+| 创新立身 | 中关村“敢为人先” | 中关村科技服务翼、成果转化驿站 |
+| 自主智能 | 全栈 AI 创新体系与开源协作 | 加速段全栈测试、原点站开源发布厅 |
+| 共同创造 | 开源、标准与全球协作 | 标准工作坊、全球 AI 开发者周、国际互认 |
+
+全球开放协作（面向全球参与者的公共机制）：
+
+| 机制 | 载体 | 面向对象 |
+| --- | --- | --- |
+| 开放成果 | 开源成果展示廊 | 全球开发者、研究者、公众 |
+| 开放测试 | 加速段开放测试场 | 初创团队、高校、国际机构 |
+| 共同标准 | 标准工作坊与治理讨论空间 | 产业、学术、公众代表 |
+| 国际互认 | 全球 AI 开发者周、活动徽章互认 | 全球开发者社区 [source:CASE-UNESCO-AI-ETHICS] |
+
+![科技文明与共同责任叙事图](assets/figures/together-forward.png)
+
+以上均为概念建议：不构成新增的政府承诺、国际协议或企业合作声明；所有共同责任机制都与既有数据最小化、人工复核、可退出原则一致 [depth:risk_missing_data]。
+
 ## 指标体系、面积复算与合规矩阵
 
 核心指标由提交几何在 EPSG:4548 下复算：总体设计范围约 1141.3 公顷，三处重点区面积分别为约 192.9、104.3、72.0 公顷，概念绿地率约 33.1%，公共空间比例约 23.0%，概念建筑基底合计约 56.1 公顷 [metric:site_area_sqm] [metric:green_ratio] [metric:public_space_ratio]。
@@ -227,5 +263,6 @@ AI 朝圣地标（3 处）：
 - 完整机器索引：sources.json、metrics.json、compliance_matrix.json、standard_matrix.json、design_depth_matrix.json
 - 案例来源：King's Cross、Kendall Square、one-north、High Tech Campus、云栖小镇、东京轨道枢纽、South Lake Union、Digital Media City（详见 sources.json）
 - 杭州互动来源：2026 云栖大会、杭州城市大脑 3.0、之江实验室、梦想小镇（详见 sources.json）
+- 科技文明与共同责任来源：京张铁路（背景参考，待以官方史料复核）、联合国教科文组织《人工智能伦理问题建议书》（详见 sources.json）
 
 完整机器索引与用途边界见 `sources.json` 与 `compliance_matrix.json` [source:SITE-PACKAGE]。

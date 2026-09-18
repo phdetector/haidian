@@ -10,6 +10,7 @@
       "ok": true,
       "errors": [],
       "warnings": [
+        "submissions/phdetector/jingzhang-kilometre-zero/manifest.json: published schema legacy advisory: validation_claim: Additional properties are not allowed ('readiness_contract' was unexpected); update this manifest before adopting schema 0.2.x",
         "submissions/phdetector/jingzhang-kilometre-zero/geometry/site_boundary.geojson: uses provisional boundary; do not treat it as an official redline or precise-area basis. Organizer data gaps do not block content scoring; recalculate when official geometry is supplied"
       ],
       "proposal_files": [
@@ -34,6 +35,8 @@
         "submissions/phdetector/jingzhang-kilometre-zero/assets/figures/operation-timeline.png",
         "submissions/phdetector/jingzhang-kilometre-zero/assets/figures/site-overview.en.png",
         "submissions/phdetector/jingzhang-kilometre-zero/assets/figures/site-overview.png",
+        "submissions/phdetector/jingzhang-kilometre-zero/assets/figures/together-forward.en.png",
+        "submissions/phdetector/jingzhang-kilometre-zero/assets/figures/together-forward.png",
         "submissions/phdetector/jingzhang-kilometre-zero/assumptions.json",
         "submissions/phdetector/jingzhang-kilometre-zero/compliance_matrix.json",
         "submissions/phdetector/jingzhang-kilometre-zero/design_depth_matrix.json",
@@ -67,7 +70,7 @@
       "ai_package_stages": {
         "submissions/phdetector/jingzhang-kilometre-zero": "formal"
       },
-      "total_bytes": 4940979,
+      "total_bytes": 5831344,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -148,7 +151,7 @@
         "proposal_format_version": "2",
         "evidence_contract": "section-anchors-plus-structured-audit",
         "proposal_reference_counts": {
-          "source": 19,
+          "source": 21,
           "standard": 4,
           "depth": 15,
           "data": 20,

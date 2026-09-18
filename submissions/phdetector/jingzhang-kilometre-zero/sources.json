@@ -120,6 +120,18 @@
       "url": "https://cxkc.hangzhou.gov.cn/",
       "source_type": "official_public",
       "usage": "Background case: Dream Town's 'core with no walls' open innovation-town model. Mechanism reference only; not formal evidence."
+    },
+    {
+      "id": "CASE-JINGZHANG-RAILWAY",
+      "url": "https://zh.wikipedia.org/wiki/%E4%BA%AC%E5%BC%A0%E9%93%81%E8%B7%AF",
+      "source_type": "unknown",
+      "usage": "Background narrative: the Jing-Zhang Railway (1905-1909) as China's first self-designed and self-built mainline railway, the origin of self-reliant innovation. Background-only; verify with official historical archives before formal reuse."
+    },
+    {
+      "id": "CASE-UNESCO-AI-ETHICS",
+      "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+      "source_type": "official_public",
+      "usage": "Background reference: UNESCO Recommendation on the Ethics of Artificial Intelligence for shared-responsibility and global-collaboration mechanism framing. Mechanism reference only; not formal evidence."
     }
   ]
 }

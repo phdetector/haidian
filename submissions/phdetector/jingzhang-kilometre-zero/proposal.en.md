@@ -6,10 +6,10 @@ proposal_format_version: "2"
 bilingual_contract_version: "1"
 translation_of: "proposal.md"
 license: "COMMUNITY-DISPLAY-ONLY"
-summary: "The concept of Jing-Zhang Kilometre Zero superimposes the zero-kilometre origin of the centennial Jing-Zhang Railway onto the Beijing AI Origin Community, organising a heritage timeline, youth-friendly public space, AI pilgrimage landmarks and an annual event system along the heritage park, and adds interaction mechanisms with the city of Hangzhou. All spatial proposals are conceptual suggestions (v1.6)."
+summary: "The concept of Jing-Zhang Kilometre Zero superimposes the zero-kilometre origin of the centennial Jing-Zhang Railway onto the Beijing AI Origin Community, organising a heritage timeline, youth-friendly public space, AI pilgrimage landmarks, an annual event system, interaction mechanisms with Hangzhou, and a science-technology narrative from autonomous innovation to co-creation. All spatial proposals are conceptual suggestions (v1.7)."
 tracks: ["jingzhang-heritage-narrative", "youth-friendly-public-space"]
 scenarios: ["ai-cultural-guide", "ai-traffic-walkability", "enterprise-service-copilot"]
-iteration: "v1.6"
+iteration: "v1.7"
 ---
 
 # Jing-Zhang Kilometre Zero
@@ -20,6 +20,7 @@ iteration: "v1.6"
 - **Space**: organise a "Kilometre Zero main axis" along the heritage park, connecting the Acceleration Segment (Zhongzhiyuan), Origin Station (AI Origin Community) and Interchange Station (Dazhongsi) [data:geometry/key_areas.geojson#PROV-KEY-001] [metric:key_area_count].
 - **Experience**: 3 AI pilgrimage landmarks, 16 scenario cards and 7 user personas; green ratio and public-space ratio are anchored in the core metrics [metric:green_ratio] [metric:public_space_ratio].
 - **Operation**: Kilometre Zero Festival in September, Global AI Developer Week in October, quarterly scenario open days, plus new interaction mechanisms with Hangzhou (event link, data governance, innovation space, civic service) [source:CASE-2026-YUNQI-CONFERENCE].
+- **Shared vision**: from the first self-built mainline railway to autonomous intelligence, then to open-source co-creation and global collaboration, translating shared responsibility into experienceable public mechanisms [source:CASE-JINGZHANG-RAILWAY] [source:CASE-UNESCO-AI-ETHICS].
 - **Boundary**: all spatial claims are conceptual suggestions based on the provisional boundary; full recalculation is required after the official redline [depth:metrics_recalculation].
 
 ## Design Basis and Source List
@@ -156,7 +157,7 @@ The blue-green system uses the Jing-Zhang heritage park vitality belt as its mai
 
 The urban character narrative is "centennial rails · digital signals · youthful streets": rail symbols carry historical memory, a signal-light colour system serves signage and public art, and youthful streets shape youth-friendly interfaces. The wayfinding system uses a unified "kilometre-zero milestone + signal colour" language, and the logo direction superimposes "0" with railway sleepers [source:AGENT-TASKBOOK] [standard:MOHURD-URBAN-DESIGN-MEASURES].
 
-The cultural narrative runs: construction of the Jing-Zhang Railway began in 1905 and opened in 1909 (the origin of China's self-reliant innovation), followed by Zhongguancun's "daring to be first", the new AI culture of "open source, explainable, co-created", and finally a renewed departure from "kilometre zero" [source:CASE-KINGS-CROSS]. All historical statements use public sources and fabricate no persons or events.
+The cultural narrative runs: construction of the Jing-Zhang Railway began in 1905 and opened in 1909 (China's first self-designed and self-built mainline railway, the origin of self-reliant innovation), followed by Zhongguancun's "daring to be first", the new AI culture of "open source, explainable, co-created", and finally a renewed departure from "kilometre zero" [source:CASE-JINGZHANG-RAILWAY]. All historical statements use public sources and fabricate no persons or events.
 
 ## Renewal Projects, Implementation Policy, and Phasing
 
@@ -203,6 +204,41 @@ At the developer-community level, mutual recognition of event badges and contrib
 
 All interaction mechanisms above are conceptual suggestions and background mechanism references: they imply no concluded cooperation, signed agreements or investment commitments between the Beijing and Hangzhou governments, and they do not change the statutory regulatory, approval or implementation boundaries of this proposal in Beijing [depth:risk_missing_data].
 
+## Science, Technology and Shared Responsibility (Conceptual Suggestion)
+
+This proposal understands "scientific and technological civilisation" as: innovation in a district should not serve itself alone, but should settle into public mechanisms that can be shared, re-checked and continued. Jing-Zhang Kilometre Zero adds a second narrative thread, "from autonomous innovation to co-creation": first build the ability to solve one's own problems independently, then convert that experience into reusable public goods in an open, trustworthy and collaborative way [source:CASE-JINGZHANG-RAILWAY] [source:CASE-UNESCO-AI-ETHICS] [depth:overall_spatial_structure].
+
+Shared responsibility principles (translated into spatial and operational rules):
+
+| Principle | Spatial/operational response | Review boundary |
+| --- | --- | --- |
+| Trustworthy | Open-source achievement gallery, open-source release hall | Only cleared outcomes displayed; generation and review actors labelled [source:CASE-UNESCO-AI-ETHICS] |
+| Explainable | Enterprise Copilot station, governance consultation desk | Policy, scenario and compliance Q&A retain a human answer path |
+| Reversible | AI testing sandbox, low-speed delivery pilot | Pilots can be stopped; safety officer on site; data used after authorisation |
+| Public benefit first | Youth-friendly public space, barrier-free digital guide | Needs of older and disabled groups enter scenario design and review |
+
+Science and technology timeline (a readable continuous street narrative):
+
+| Stage | Historical/factual anchor | Spatial translation |
+| --- | --- | --- |
+| Self-reliant opening | 1905–1909 Jing-Zhang Railway (China's first self-designed and self-built mainline railway) | Kilometre Zero Monument, centennial rail symbols [source:CASE-JINGZHANG-RAILWAY] |
+| Standing on innovation | Zhongguancun's "daring to be first" | Zhongguancun technology service wing, transformation service stations |
+| Autonomous intelligence | Full-stack AI innovation and open-source collaboration | Acceleration Segment full-stack testing, Origin Station release hall |
+| Co-creation | Open source, standards and global collaboration | Standards workshops, Global AI Developer Week, international mutual recognition |
+
+Global open collaboration (public mechanisms for participants worldwide):
+
+| Mechanism | Carrier | Audience |
+| --- | --- | --- |
+| Open outcomes | Open-source achievement gallery | Global developers, researchers, public |
+| Open testing | Acceleration Segment open testing field | Startups, universities, international institutions |
+| Shared standards | Standards workshops and governance discussion space | Industry, academia, public representatives |
+| International recognition | Global AI Developer Week, event-badge mutual recognition | Global developer community [source:CASE-UNESCO-AI-ETHICS] |
+
+![Science, technology and shared responsibility narrative](assets/figures/together-forward.en.png)
+
+All of the above are conceptual suggestions: they imply no new government commitment, international agreement or enterprise-cooperation statement; every shared-responsibility mechanism stays consistent with the existing data minimisation, human review and reversibility principles [depth:risk_missing_data].
+
 ## Metrics, Area Recalculation, and Compliance Matrix
 
 Core metrics are recalculated from submitted geometry in EPSG:4548: the overall design area is about 1,141.3 ha; the three key areas are about 192.9, 104.3 and 72.0 ha; the conceptual green ratio is about 33.1%; the public-space ratio is about 23.0%; and conceptual building footprints total about 56.1 ha [metric:site_area_sqm] [metric:green_ratio] [metric:public_space_ratio].
@@ -227,5 +263,6 @@ Copyright and compliance: this proposal's text, geometry, diagrams and static pa
 - Complete machine index: sources.json, metrics.json, compliance_matrix.json, standard_matrix.json, design_depth_matrix.json
 - Case sources: King's Cross, Kendall Square, one-north, High Tech Campus, Yunqi Town, Tokyo rail hubs, South Lake Union, Digital Media City (see sources.json)
 - Hangzhou interaction sources: 2026 Yunqi Conference, Hangzhou City Brain 3.0, Zhejiang Lab, Dream Town (see sources.json)
+- Science, technology and shared responsibility sources: Jing-Zhang Railway (background reference; awaiting official historical review), UNESCO Recommendation on the Ethics of Artificial Intelligence (see sources.json)
 
 The complete machine index and source-use boundaries are in `sources.json` and `compliance_matrix.json` [source:SITE-PACKAGE].
